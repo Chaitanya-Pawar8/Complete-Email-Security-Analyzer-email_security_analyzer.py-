@@ -31,7 +31,7 @@ A **cybersecurity tool** that analyzes email headers and content to detect **phi
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/yourusername/AI-Email-Security-Analyzer.git
+git clone https://github.com/Chaitanya-Pawar8/AI-Email-Security-Analyzer.git
 cd AI-Email-Security-Analyzer
 pip install -r requirements.txt
 ```
