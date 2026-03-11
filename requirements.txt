@@ -1,0 +1,8 @@
+flask
+requests
+dnspython
+python-whois
+tldextract
+beautifulsoup4
+nltk
+transformers
